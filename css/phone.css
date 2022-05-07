@@ -1,0 +1,36 @@
+#navbar{
+    flex-direction: column;
+}
+
+
+#home{
+    height:330px;
+   flex-direction: column;
+}
+#home::before{
+    height:480px;
+   
+}
+#home p{
+    font-size: 13px;
+}
+
+#menu{
+    flex-direction: column;
+}
+#menu.box{
+
+}
+#client{
+    overflow: hidden;
+}
+#client img{
+    width:66px;
+}
+
+#contact{
+
+}
+.h-primary{
+    font-size: 26px;
+}
